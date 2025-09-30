@@ -161,4 +161,4 @@ SOC-Automation-Lab/
 - 📣 Add Slack/Email notification nodes
 - ⚡ Trigger automated response (disable user, isolate host)
 
-Stay tuned for **Part 2**!
+🔗 Continue to **[Part 2: Automated Alert Enrichment & Slack Notifications](https://github.com/CyberAllante/SOC-Automation-Lab-2)**
